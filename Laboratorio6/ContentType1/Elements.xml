@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <!-- Parent ContentType: Elemento (0x01) -->
+  <ContentType ID="0x01004611FB1FCB6E4EB6B22B1AEE77A3587A" Name="ContentType1" Group="Custom Content Types" Description="My Content Type" Inherits="TRUE" Version="0">
+    <FieldRefs>
+      <FieldRef ID="{3910dd13-ed20-4967-ac6e-ae0bb8f48cfc}" DisplayName="Sugerencia Lookup" Required="True" Name="SugerenciaLookup" />
+      <FieldRef ID="{7581dfc7-6265-43d2-9c4c-24c99dfe86d3}" DisplayName="Positivo" Required="TRUE" Name="Positivo" />
+    </FieldRefs>
+  </ContentType>
+</Elements>

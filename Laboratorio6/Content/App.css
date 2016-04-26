@@ -1,0 +1,77 @@
+﻿/* Place custom styles below */
+
+.new-item-form-line {
+
+margin: 10px;
+
+}
+
+.new-item-form-label {
+
+display: inline-block;
+
+min-width: 100px;
+
+}
+
+.new-item-form-field {
+
+display: inline-block;
+
+min-width: 400px;
+
+}
+
+.new-item-form-control {
+
+width: 100%;
+
+}
+
+#sugerencias-list {
+
+float: left;
+
+width: 300px;
+
+}
+
+#item-display {
+
+display: none;float: left;
+
+width: 500px;
+
+border: solid 2px #66cbea;
+
+}
+
+.item-display-line {
+
+margin: 10px;
+
+}
+
+.item-display-label {
+
+display: inline-block;
+
+width: 100px;
+
+}
+
+.item-display-field {
+
+display: inline-block;
+
+width: 200px;
+
+vertical-align: top;
+
+}
+
+.clear-floats {
+
+clear: both;
+
+}
